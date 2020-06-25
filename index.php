@@ -15,7 +15,7 @@
 					<h1 class="animation a1">Welcome Back!</h1>
 					<h4 class="animation a2">Log in to see and select products.</h4>
 					<script><?php alert('Username: TinhTV<br>
-						Password: 191020<br>')></script>
+						Password: 191020<br>')?></script>
 				</div>
 				<div class="form">
 					<input type="text" class="form-field animation a3" placeholder="Username" name="username">
