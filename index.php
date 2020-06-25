@@ -6,6 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<link rel="stylesheet" type="" href="min.js">
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script> alert('Username: TinhTV - Password: 191020')</script>
 </head>
 <body>
 	<form action="connect.php" method="POST">
@@ -13,9 +14,7 @@
 			<div class="left-section">
 				<div class="header">
 					<h1 class="animation a1">Welcome Back!</h1>
-					<h4 class="animation a2">Log in to see and select products.</h4>
-					<script><?php alert('Username: TinhTV<br>
-						Password: 191020<br>')?></script>
+					<h4 class="animation a2">Log in to see and select products.</h4>					
 				</div>
 				<div class="form">
 					<input type="text" class="form-field animation a3" placeholder="Username" name="username">
