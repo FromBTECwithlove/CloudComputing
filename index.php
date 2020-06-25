@@ -14,6 +14,11 @@
 				<div class="header">
 					<h1 class="animation a1">Welcome Back!</h1>
 					<h4 class="animation a2">Log in to see and select products.</h4>
+					<h4 class="animation a2">
+					To login to the demo web page enter the username and password below:
+Username: TinhTV
+Password: 191020
+					</h4>
 				</div>
 				<div class="form">
 					<input type="text" class="form-field animation a3" placeholder="Username" name="username">
