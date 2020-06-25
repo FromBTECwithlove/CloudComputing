@@ -14,11 +14,8 @@
 				<div class="header">
 					<h1 class="animation a1">Welcome Back!</h1>
 					<h4 class="animation a2">Log in to see and select products.</h4>
-					<h4 class="animation a2">
-					To login to the demo web page enter the username and password below:<br>
-						<strong>Username:</strong> TinhTV<br>
-						<strong>Password:</strong> 191020<br>
-					</h4>
+					<script><?php alert('Username: TinhTV<br>
+						Password: 191020<br>')></script>
 				</div>
 				<div class="form">
 					<input type="text" class="form-field animation a3" placeholder="Username" name="username">
