@@ -16,7 +16,7 @@
 					<h4 class="animation a2">Log in to see and select products.</h4>
 				</div>
 				<div class="form">
-					<input type="email" class="form-field animation a3" placeholder="Username" name="username">
+					<input type="text" class="form-field animation a3" placeholder="Username" name="username">
 					<input type="password" class="form-field animation a4" placeholder="Password" name="pass">
 					<p class="animation a5"><a href="#">Forgot Password</a></p>
 					<button class="animation a6">LOGIN</button>
